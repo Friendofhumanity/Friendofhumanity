@@ -30,7 +30,7 @@ I have completed research internships at **IIT Jammu**, where I worked on:
 - Information extraction using LLMs and structured knowledge representations
 - Low-resource language processing and model evaluation
 
-One of my key research outcomes includes achieving an **88.21 Macro F1-score** on the **HiNER dataset** using transformer-based NLP methods.
+One of my key research outcomes includes achieving an **88.21 Macro F1-score** on the **HiNER dataset** using transformer-based NLP methods. Alongside AI research, I have also worked on practical projects involving **sentiment analysis, algorithm visualization, data analytics, and visual storytelling through data**.
 
 ---
 
@@ -38,9 +38,11 @@ One of my key research outcomes includes achieving an **88.21 Macro F1-score** o
 
 - 🔎 **Knowledge Graph Extraction** using LLMs, OpenIE-style pipelines, and embeddings
 - 🤖 **LLM-based fact-checking** and misinformation detection systems
+- 📊 **Data Visualization & Analytics** to turn raw data into clear insights and decision-ready visuals
 - 🧩 **Retrieval-Augmented Generation** and structured reasoning pipelines
 - 🇮🇳 **Hindi NLP** and low-resource language understanding
 - 🚀 Turning research ideas into clean, usable AI projects
+- 🤝 Working in collaborative environments where good communication, teamwork, and shared learning matter
 
 ---
 
@@ -178,11 +180,11 @@ Current Focus
 
 ## 🧩 A Little More About Me
 
-I enjoy working on problems where AI is not just used as a buzzword, but as a tool to understand language, structure knowledge, and support better decision-making.
+I enjoy working on problems where AI is not just used as a buzzword, but as a tool to understand language, structure knowledge, visualize information, and support better decision-making.
 
-My long-term goal is to grow as an **AI researcher and engineer** who can bridge the gap between research ideas and real-world intelligent systems.
+My long-term goal is to grow as an **AI researcher and engineer** who can bridge the gap between research ideas and real-world intelligent systems. I also enjoy working in teams, sharing ideas, learning from others, and contributing wherever I can add value.
 
-When I’m not experimenting with models, I’m usually learning about new AI research, improving my projects, or exploring better ways to explain complex technical ideas simply.
+When I’m not experimenting with models, I’m usually learning about new AI research, improving my projects, exploring data visualization techniques, or finding better ways to explain complex technical ideas simply.
 
 ---
 
@@ -190,8 +192,10 @@ When I’m not experimenting with models, I’m usually learning about new AI re
 
 - AI/ML research internships
 - NLP and Generative AI projects
+- Data science and visualization-based projects
 - Research collaborations
 - Open-source AI contributions
+- Team-based projects where I can learn, build, and contribute
 - Building practical ML systems with real-world impact
 
 ---
