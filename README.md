@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:7c3aed&text=Mahesh%20Raina&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=AI%20%7C%20NLP%20%7C%20Generative%20AI%20%7C%20Knowledge%20Graphs&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:7c3aed&text=Mahesh%20Raina&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=AI%20%7C%20Generative%20AI%20%7C%20AI%20Systems%20%7C%20Knowledge%20Graphs&descAlignY=58&descSize=18" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=M.Tech+AI+%26+Data+Science+Student;NLP+%26+Generative+AI+Researcher;IIT+Jammu+Research+Intern;Building+AI+systems+with+Transformers+%26+Knowledge+Graphs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=M.Tech+AI+%26+Data+Science+Student;Generative\+AI\+%26\+AI\+Systems\+Builder;IIT+Jammu+Research+Intern;Building\+AI\+systems\+with\+LLMs%2C\+Docker\+%26\+Kubernetes" alt="Typing SVG" />
 
 <br/>
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Friendofhumanity&style=for-the-badge&color=2563eb" alt="Profile Views" />
-<img src="https://img.shields.io/badge/Open%20to-Research%20Internships-22c55e?style=for-the-badge" alt="Open to Research Internships" />
-<img src="https://img.shields.io/badge/Focus-NLP%20%7C%20GenAI%20%7C%20LLMs-7c3aed?style=for-the-badge" alt="Focus Areas" />
+<img src="https://img.shields.io/badge/Open%20to-AI%20Roles%20%26%20Research-22c55e?style=for-the-badge" alt="Open to AI Roles and Research" />
+<img src="https://img.shields.io/badge/Focus-GenAI%20%7C%20AI%20Systems%20%7C%20LLMs-7c3aed?style=for-the-badge" alt="Focus Areas" />
 
 </div>
 
@@ -21,16 +21,16 @@
 
 Hi, I’m **Mahesh Raina**, an **M.Tech student in Artificial Intelligence & Data Science** at the **University of Jammu**.
 
-I’m focused on building intelligent systems using **Natural Language Processing, Deep Learning, Generative AI, Transformer models, and Knowledge Graphs**. My research interests sit at the intersection of language understanding, information extraction, misinformation detection, and practical AI systems that can create real-world impact.
+I’m focused on building intelligent systems using **Deep Learning, Generative AI, Transformer models, Knowledge Graphs, and deployment-focused AI workflows**. My interests sit at the intersection of intelligent automation, information extraction, misinformation detection, and practical AI systems that can create real-world impact.
 
 I have completed research internships at **IIT Jammu**, where I worked on:
 
-- Transformer-based **Named Entity Recognition** for Hindi NLP
+- Transformer-based model development for Hindi language understanding
 - **Generative AI + Knowledge Graphs** for claim validation and misinformation detection
 - Information extraction using LLMs and structured knowledge representations
-- Low-resource language processing and model evaluation
+- Model evaluation, experimentation, and research-driven AI workflows
 
-One of my key research outcomes includes achieving an **88.21 Macro F1-score** on the **HiNER dataset** using transformer-based NLP methods. Alongside AI research, I have also worked on practical projects involving **sentiment analysis, algorithm visualization, data analytics, and visual storytelling through data**.
+One of my key research outcomes includes achieving an **88.21 Macro F1-score** on the **HiNER dataset** using transformer-based methods. Alongside AI research, I have also worked on practical projects involving **sentiment analysis, algorithm visualization, data analytics, and rapid AI prototyping**.
 
 ---
 
@@ -38,9 +38,12 @@ One of my key research outcomes includes achieving an **88.21 Macro F1-score** o
 
 - 🔎 **Knowledge Graph Extraction** using LLMs, OpenIE-style pipelines, and embeddings
 - 🤖 **LLM-based fact-checking** and misinformation detection systems
-- 📊 **Data Visualization & Analytics** to turn raw data into clear insights and decision-ready visuals
+- 🧮 **Mathematics, Statistics & Optimization** for stronger AI and Data Science foundations
+- 🗄️ **Advanced DBMS & Big Data Analytics using R** for handling, querying, and analyzing structured data
+- 🐧 **Linux Programming**
+- 🐳 **Docker & Kubernetes** for learning deployment-ready AI and software workflows
+- ⚡ **Vibe Coding** to quickly prototype ideas, test concepts, and turn rough ideas into working projects
 - 🧩 **Retrieval-Augmented Generation** and structured reasoning pipelines
-- 🇮🇳 **Hindi NLP** and low-resource language understanding
 - 🚀 Turning research ideas into clean, usable AI projects
 - 🤝 Working in collaborative environments where good communication, teamwork, and shared learning matter
 
@@ -52,7 +55,7 @@ One of my key research outcomes includes achieving an **88.21 Macro F1-score** o
 
 ### Programming & Core Tools
 
-<img src="https://skillicons.dev/icons?i=python,git,github,docker,vscode" />
+<img src="https://skillicons.dev/icons?i=python,git,github,docker,kubernetes,vscode" />
 
 <br/>
 <br/>
@@ -75,8 +78,11 @@ One of my key research outcomes includes achieving an **88.21 Macro F1-score** o
 
 ### Areas of Interest
 
-<img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-2563eb?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Generative%20AI-LLMs%20%26%20Agents-7c3aed?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Systems-Practical%20AI%20Building-2563eb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vibe%20Coding-Rapid%20AI%20Prototyping-ec4899?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Docker-Containerized%20Workflows-2496ed?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-Orchestration-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Transformers-BERT%20%7C%20LLMs-f97316?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Knowledge%20Graphs-Reasoning%20%26%20Fact%20Checking-22c55e?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-111827?style=for-the-badge" />
@@ -85,20 +91,36 @@ One of my key research outcomes includes achieving an **88.21 Macro F1-score** o
 
 ---
 
+## 📚 Academic & Technical Foundation
+
+Alongside my AI research and lab work, I am building a strong foundation through core M.Tech coursework in:
+
+- **Operating System using Linux**
+- **Mathematics and Statistics for AI & Data Science**
+- **Programming for AI & Data Science**
+- **Artificial Intelligence**
+- **Image Processing**
+- **Advanced DBMS**
+- **Optimization Techniques**
+
+These subjects help me connect theory with implementation — from algorithms and systems to machine learning, visualization, databases, and real-world AI workflows.
+
+---
+
 ## 🚀 Featured Work
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🧠 Hindi NER with Transformers</h3>
+      <h3>🧠 Transformer-Based Hindi Language Model</h3>
       <p>
-        Transformer-based Named Entity Recognition system for Hindi NLP using the HiNER dataset.
+        Transformer-based system for Hindi language understanding using the HiNER dataset.
       </p>
       <p>
         <b>Result:</b> 88.21 Macro F1-score
       </p>
       <p>
-        <b>Focus:</b> NLP, Transformers, Low-resource Language Processing
+        <b>Focus:</b> Transformers, Model Evaluation, Hindi Language Understanding
       </p>
     </td>
     <td width="50%">
@@ -139,11 +161,6 @@ One of my key research outcomes includes achieving an **88.21 Macro F1-score** o
 
 ```text
 Current Focus
-├── Natural Language Processing
-│   ├── Named Entity Recognition
-│   ├── Text Classification
-│   └── Low-Resource Language Processing
-│
 ├── Generative AI
 │   ├── Large Language Models
 │   ├── Prompt Engineering
@@ -153,6 +170,23 @@ Current Focus
 │   ├── Triplet Extraction
 │   ├── Entity Relationships
 │   └── Claim Verification
+│
+├── Data Science & Analytics
+│   ├── Image Processing
+│   ├── Big Data Analytics using R
+│   └── Statistical Analysis
+│
+├── Deployment & Practical Building
+│   ├── Docker
+│   ├── Kubernetes
+│   ├── Vibe Coding
+│   └── Rapid AI Prototyping
+│
+├── Computer Science Foundations
+│   ├── Data Structures & Algorithms
+│   ├── Operating Systems using Linux
+│   ├── Advanced DBMS
+│   └── Optimization Techniques
 │
 └── Deep Learning
     ├── Transformer Models
@@ -180,23 +214,29 @@ Current Focus
 
 ## 🧩 A Little More About Me
 
-I enjoy working on problems where AI is not just used as a buzzword, but as a tool to understand language, structure knowledge, visualize information, and support better decision-making.
+I enjoy working on problems where AI is not just used as a buzzword, but as a tool to understand information, structure knowledge, automate workflows, and support better decision-making.
 
 My long-term goal is to grow as an **AI researcher and engineer** who can bridge the gap between research ideas and real-world intelligent systems. I also enjoy working in teams, sharing ideas, learning from others, and contributing wherever I can add value.
 
-When I’m not experimenting with models, I’m usually learning about new AI research, improving my projects, exploring data visualization techniques, or finding better ways to explain complex technical ideas simply.
+When I’m not experimenting with models, I’m usually learning about new AI research, improving my projects, testing new AI tools, or finding better ways to explain complex technical ideas simply.
+
+---
+
+## 🏆 Achievement
+
+- **ISTE Best Student Award 2024** — recognized for academic performance, technical involvement, leadership, and contribution to student learning initiatives.
 
 ---
 
 ## 🤝 Open To
 
 - AI/ML research internships
-- NLP and Generative AI projects
-- Data science and visualization-based projects
+- Generative AI and applied AI projects
+- AI-focused roles, internships, and collaborations
 - Research collaborations
 - Open-source AI contributions
 - Team-based projects where I can learn, build, and contribute
-- Building practical ML systems with real-world impact
+- Building practical AI systems with real-world impact
 
 ---
 
