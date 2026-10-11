@@ -1,18 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,20,24&text=Mahesh%20Raina&fontColor=e8e2d0&fontSize=56&fontAlignY=40&desc=AI%20Researcher%20and%20Engineer&descAlignY=62&descSize=22&descColor=c9b37e" alt="Mahesh Raina banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,45:2b3a1f,100:7a1c1c&text=Mahesh%20Raina&fontColor=e8e2d0&fontSize=58&fontAlignY=42&desc=AI%20Researcher%20and%20Engineer&descAlignY=64&descSize=22&descColor=c9b37e&animation=fadeIn" alt="Mahesh Raina banner" />
 
 # Mahesh Raina
 
 ### AI Researcher · Generative AI · NLP · Knowledge Graphs
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=C9B37E&center=true&vCenter=true&width=800&lines=M.Tech+AI+and+Data+Science+at+University+of+Jammu;Two+Research+Internships+at+IIT+Jammu;Contributed+to+Two+ACL+Anthology+Papers;Advancing+beyond+the+walls+of+what+is+known" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=C9B37E&center=true&vCenter=true&width=800&lines=M.Tech+AI+and+Data+Science+at+University+of+Jammu;Two+Research+Internships+at+IIT+Jammu;Building+LLM+and+Knowledge+Graph+Systems;Advancing+beyond+the+walls+of+what+is+known" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Status-Open_to_AI%2FML_Research_Roles-4d6b3a?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-GenAI_%7C_NLP_%7C_Knowledge_Graphs-8b1e1e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Open_to_AI%2FML_Research_Roles-5a7a43?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-GenAI_%7C_NLP_%7C_Knowledge_Graphs-b3202a?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Location-Jammu%2C_India-3a3a3a?style=for-the-badge" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/maheshraina/"><img src="https://img.shields.io/badge/LinkedIn-Connect-c9b37e?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="mailto:maheshraina2003@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-b3202a?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="https://github.com/Friendofhumanity"><img src="https://img.shields.io/badge/GitHub-Friendofhumanity-5a7a43?style=for-the-badge&labelColor=0d1117" /></a>
 
 <br/><br/>
 
@@ -20,23 +26,35 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:5a7a43,50:c9b37e,100:b3202a" width="100%" />
 
-## 🛡️ Survey Report: About Me
+## 🛡️ Survey Report · About
 
 I'm a **final-year M.Tech student in AI & Data Science** at the **University of Jammu**, working across **Generative AI, NLP, and Knowledge Graphs**.
 
 - 🔬 Two research internships at **IIT Jammu (Dept. of CS)**
 - 🧠 Interests: misinformation detection, low-resource NLP, LLM-powered systems
+- 🤝 Lead of **GDG on Campus, University of Jammu (GDG JU)**
 - 🎯 Targeting **AI/ML Research roles**
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:5a7a43,50:c9b37e,100:b3202a" width="100%" />
 
-## ⚔️ Arsenal: Skills
+## ⚔️ Arsenal · Skills
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,r,tensorflow,keras,sklearn,pandas,numpy,docker,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,r,tensorflow,sklearn,docker,git,github,vscode&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Hugging_Face-Transformers-1a1f1a?style=flat-square&labelColor=c9b37e&color=1a1f1a" />
+<img src="https://img.shields.io/badge/Keras-Deep_Learning-1a1f1a?style=flat-square&labelColor=b3202a&color=1a1f1a" />
+<img src="https://img.shields.io/badge/Pandas-Data_Analysis-1a1f1a?style=flat-square&labelColor=5a7a43&color=1a1f1a" />
+<img src="https://img.shields.io/badge/NumPy-Numerical_Computing-1a1f1a?style=flat-square&labelColor=5a7a43&color=1a1f1a" />
+<img src="https://img.shields.io/badge/Matplotlib-Visualization-1a1f1a?style=flat-square&labelColor=c9b37e&color=1a1f1a" />
+<img src="https://img.shields.io/badge/Gemini_API-LLM_Apps-1a1f1a?style=flat-square&labelColor=b3202a&color=1a1f1a" />
+<img src="https://img.shields.io/badge/WandB-Experiment_Tracking-1a1f1a?style=flat-square&labelColor=c9b37e&color=1a1f1a" />
+<img src="https://img.shields.io/badge/Gradio-Demos-1a1f1a?style=flat-square&labelColor=5a7a43&color=1a1f1a" />
 
 </div>
 
@@ -48,9 +66,9 @@ I'm a **final-year M.Tech student in AI & Data Science** at the **University of 
 | **Tools** | Git, GitHub, Docker, WandB, Gradio, Google Colab, Kaggle, VS Code |
 | **Data & Viz** | Pandas, NumPy, Matplotlib |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:5a7a43,50:c9b37e,100:b3202a" width="100%" />
 
-## 🧭 Expedition Log: Research Experience
+## 🧭 Expedition Log · Research Experience
 
 ### 🕸️ Research Intern, Generative AI & Knowledge Graphs
 **IIT Jammu, Dept. of Computer Science** · Feb 2025 – Jul 2025
@@ -68,9 +86,9 @@ I'm a **final-year M.Tech student in AI & Data Science** at the **University of 
 - Applied **data augmentation and transfer learning** for low-resource language challenges
 - 📄 **Paper:** [ACL Anthology](https://aclanthology.org/2022.lrec-1.475) · 💻 **Code:** [Hiner-finetuned](https://github.com/Friendofhumanity/-Hiner-finetuned)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:5a7a43,50:c9b37e,100:b3202a" width="100%" />
 
-## 🏰 Missions: Featured Projects
+## 🏰 Missions · Featured Projects
 
 <table>
   <tr>
@@ -98,24 +116,20 @@ I'm a **final-year M.Tech student in AI & Data Science** at the **University of 
   </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:5a7a43,50:c9b37e,100:b3202a" width="100%" />
 
-## 🎓 Training Corps: Education
+## 🎓 Training Corps · Education
 
 | Degree | Institution | Years |
 |---|---|---|
 | **M.Tech, AI & Data Science** | University of Jammu | 2025 – 2027 |
 | **B.E., Computer Science** (CGPA 7.86) | Khalsa College of Engineering & Technology, Amritsar | 2021 – 2025 |
 
----
+**🎖️ Commendation:** ISTE Best Student Award (Oct 2024), for academic performance and technical contributions
 
-## 🎖️ Commendation
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:5a7a43,50:c9b37e,100:b3202a" width="100%" />
 
-- 🥇 **ISTE Best Student Award** (Oct 2024), for academic performance and technical contributions
-
----
-
-## 🗺️ Beyond the Walls: Current Exploration
+## 🗺️ Beyond the Walls · Current Exploration
 
 ```text
 Wall Maria ── Foundations
@@ -131,22 +145,22 @@ Beyond ────── Next Horizon
     AI Systems · Docker · Deployment-ready Workflows
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:5a7a43,50:c9b37e,100:b3202a" width="100%" />
 
 ## 📊 Field Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Friendofhumanity&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=c9b37e&icon_color=8b1e1e&text_color=e8e2d0&bg_color=1a1f1a" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Friendofhumanity&layout=compact&hide_border=true&title_color=c9b37e&text_color=e8e2d0&bg_color=1a1f1a" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Friendofhumanity&show_icons=true&hide_rank=true&hide_border=true&count_private=true&title_color=c9b37e&icon_color=b3202a&text_color=e8e2d0&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Friendofhumanity&layout=compact&hide_border=true&title_color=c9b37e&text_color=e8e2d0&bg_color=0d1117" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Friendofhumanity&hide_border=true&background=1a1f1a&stroke=4d6b3a&ring=c9b37e&fire=8b1e1e&currStreakLabel=c9b37e&sideLabels=e8e2d0&currStreakNum=e8e2d0&sideNums=e8e2d0&dates=9a9a8a" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Friendofhumanity&bg_color=0d1117&color=c9b37e&line=b3202a&point=e8e2d0&area=true&area_color=5a7a43&hide_border=true" width="100%" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:5a7a43,50:c9b37e,100:b3202a" width="100%" />
 
 ## 💬 Creed
 
@@ -160,7 +174,7 @@ Beyond ────── Next Horizon
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:5a7a43,50:c9b37e,100:b3202a" width="100%" />
 
 ## 🤝 Open To
 
@@ -169,20 +183,15 @@ Beyond ────── Next Horizon
 - 🌐 Open-source AI contributions
 - 🛠️ Team projects building practical AI systems
 
----
-
-## 📫 Connect
-
 <div align="center">
 
-<a href="mailto:maheshraina2003@gmail.com"><img src="https://img.shields.io/badge/Email-maheshraina2003%40gmail.com-8b1e1e?style=for-the-badge" /></a>
-<a href="https://github.com/Friendofhumanity"><img src="https://img.shields.io/badge/GitHub-Friendofhumanity-4d6b3a?style=for-the-badge" /></a>
-<a href="https://aclanthology.org/2025.genaik-1.12/"><img src="https://img.shields.io/badge/ACL_Anthology-Publications-3a3a3a?style=for-the-badge" /></a>
-<!-- Add your LinkedIn URL, then uncomment: -->
-<!-- <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-c9b37e?style=for-the-badge" /></a> -->
+<br/>
+
+<a href="https://www.linkedin.com/in/maheshraina/"><img src="https://img.shields.io/badge/LinkedIn-Connect-c9b37e?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="mailto:maheshraina2003@gmail.com"><img src="https://img.shields.io/badge/Email-maheshraina2003%40gmail.com-b3202a?style=for-the-badge&labelColor=0d1117" /></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=24,20,12&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7a1c1c,50:2b3a1f,100:0d1117&section=footer" />
 
 </div>
