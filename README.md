@@ -1,52 +1,46 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0b0b1a,45:3b1d5a,100:e879a9&text=Mahesh%20Raina&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=%E7%A0%94%E7%A9%B6%E8%80%85%20%C2%B7%20AI%20Researcher%20%26%20Engineer&descAlignY=60&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,20,24&text=Mahesh%20Raina&fontColor=e8e2d0&fontSize=56&fontAlignY=40&desc=AI%20Researcher%20and%20Engineer&descAlignY=62&descSize=22&descColor=c9b37e" alt="Mahesh Raina banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F9A8D4&center=true&vCenter=true&width=850&lines=M.Tech+AI+%26+Data+Science+%7C+University+of+Jammu;Generative+AI+%C2%B7+Knowledge+Graphs+%C2%B7+NLP;Two+Research+Internships+at+IIT+Jammu;Published+on+ACL+Anthology" alt="Typing SVG" />
+# Mahesh Raina
+
+### AI Researcher · Generative AI · NLP · Knowledge Graphs
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=C9B37E&center=true&vCenter=true&width=800&lines=M.Tech+AI+and+Data+Science+at+University+of+Jammu;Two+Research+Internships+at+IIT+Jammu;Contributed+to+Two+ACL+Anthology+Papers;Advancing+beyond+the+walls+of+what+is+known" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Open%20to-AI%2FML%20Research%20Roles-e879a9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-GenAI%20%7C%20NLP%20%7C%20Knowledge%20Graphs-7c3aed?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Based%20in-Jammu%2C%20India-0b0b1a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Open_to_AI%2FML_Research_Roles-4d6b3a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-GenAI_%7C_NLP_%7C_Knowledge_Graphs-8b1e1e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Location-Jammu%2C_India-3a3a3a?style=for-the-badge" />
 
 <br/><br/>
 
-> *"A quiet mind builds loud results."* 🌸
+> *"Walls are built to be understood, then surpassed."*
 
 </div>
 
 ---
 
-## 🌙 About
+## 🛡️ Survey Report: About Me
 
-I'm a **final-year M.Tech student in AI & Data Science** at the **University of Jammu**, working at the intersection of **Generative AI, NLP, and Knowledge Graphs**.
+I'm a **final-year M.Tech student in AI & Data Science** at the **University of Jammu**, working across **Generative AI, NLP, and Knowledge Graphs**.
 
 - 🔬 Two research internships at **IIT Jammu (Dept. of CS)**
-- 📄 Two papers on the **ACL Anthology**
-- 🧠 Interested in misinformation detection, low-resource NLP, and LLM-powered systems
+- 🧠 Interests: misinformation detection, low-resource NLP, LLM-powered systems
 - 🎯 Targeting **AI/ML Research roles**
-- 🤝 Lead of **GDG on Campus, University of Jammu (GDG JU)**
 
 ---
 
-## ⚔️ Skills
+## ⚔️ Arsenal: Skills
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,r,tensorflow,keras,sklearn,pandas,numpy,docker,git,github,vscode&theme=dark" />
 
-<br/>
-
-<img src="https://img.shields.io/badge/Hugging%20Face-Transformers-ffd21e?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/Gemini-API-8e75ff?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Weights%20%26%20Biases-Tracking-ffbe00?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
-<img src="https://img.shields.io/badge/Gradio-Demos-f97316?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SQL-Databases-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-
 </div>
 
-| Area | Stack |
+| Division | Equipment |
 |---|---|
 | **Languages** | Python, SQL, R |
 | **ML / DL** | TensorFlow, Keras, Scikit-learn, Hugging Face Transformers |
@@ -56,17 +50,17 @@ I'm a **final-year M.Tech student in AI & Data Science** at the **University of 
 
 ---
 
-## 🔬 Research Experience
+## 🧭 Expedition Log: Research Experience
 
-### 🕸️ Research Intern: Generative AI & Knowledge Graphs
+### 🕸️ Research Intern, Generative AI & Knowledge Graphs
 **IIT Jammu, Dept. of Computer Science** · Feb 2025 – Jul 2025
 
 - Researched **Knowledge Graphs + Generative AI** for fact-checking and claim validation
 - Evaluated **ChatGPT, DeepSeek, Gemini, Grok, and LLaMA** as alternatives to **OpenIE6** for triplet extraction, with better accuracy and lower compute overhead
-- Developed methods for integrating LLMs with structured knowledge to strengthen claim verification pipelines
+- Developed methods to integrate LLMs with structured knowledge for stronger claim verification pipelines
 - 📄 **Paper:** [ACL Anthology, GenAIK 2025](https://aclanthology.org/2025.genaik-1.12/)
 
-### 🧠 Research Intern: NLP & Transformer Models
+### 🧠 Research Intern, NLP & Transformer Models
 **IIT Jammu, Dept. of Computer Science** · May 2023 – Aug 2023
 
 - Built **Transformer-based NER for Hindi**, improving token classification efficiency by **23%**
@@ -76,12 +70,12 @@ I'm a **final-year M.Tech student in AI & Data Science** at the **University of 
 
 ---
 
-## 🚀 Featured Projects
+## 🏰 Missions: Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌸 MindWatch</h3>
+      <h3>🌿 MindWatch</h3>
       <p><i>Next.js · Firebase · Genkit · Gemini API · Capacitor</i></p>
       <ul>
         <li>Mental health journaling platform with mood tracking and AI-guided reflective prompts</li>
@@ -106,7 +100,7 @@ I'm a **final-year M.Tech student in AI & Data Science** at the **University of 
 
 ---
 
-## 🎓 Education
+## 🎓 Training Corps: Education
 
 | Degree | Institution | Years |
 |---|---|---|
@@ -115,48 +109,52 @@ I'm a **final-year M.Tech student in AI & Data Science** at the **University of 
 
 ---
 
-## 🏆 Recognition
+## 🎖️ Commendation
 
-- 🥇 **ISTE Best Student Award** (Oct 2024) for academic performance and technical contributions
+- 🥇 **ISTE Best Student Award** (Oct 2024), for academic performance and technical contributions
 
 ---
 
-## 🔭 Currently Exploring
+## 🗺️ Beyond the Walls: Current Exploration
 
 ```text
-研究 (Kenkyū) ── Research Path
-├── Generative AI ········ LLMs · Prompt Engineering · RAG
-├── Knowledge Graphs ····· Triplet Extraction · Claim Verification
-├── NLP ·················· Low-resource Languages · Transformers
-└── AI Systems ··········· Docker · Deployment-ready Workflows
+Wall Maria ── Foundations
+│   Python · Algorithms · Statistics · Databases
+│
+Wall Rose ─── Core Craft
+│   Deep Learning · Transformers · Experiment Tracking
+│
+Wall Sina ─── Frontier
+│   Generative AI · RAG · Knowledge Graphs · Claim Verification
+│
+Beyond ────── Next Horizon
+    AI Systems · Docker · Deployment-ready Workflows
 ```
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Field Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Friendofhumanity&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Friendofhumanity&layout=compact&theme=radical&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Friendofhumanity&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=c9b37e&icon_color=8b1e1e&text_color=e8e2d0&bg_color=1a1f1a" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Friendofhumanity&layout=compact&hide_border=true&title_color=c9b37e&text_color=e8e2d0&bg_color=1a1f1a" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Friendofhumanity&theme=radical&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Friendofhumanity&hide_border=true&background=1a1f1a&stroke=4d6b3a&ring=c9b37e&fire=8b1e1e&currStreakLabel=c9b37e&sideLabels=e8e2d0&currStreakNum=e8e2d0&sideNums=e8e2d0&dates=9a9a8a" />
 
 </div>
 
 ---
 
-## 💬 Philosophy
+## 💬 Creed
 
 <div align="center">
 
-> *"Fall seven times, stand up eight."* 🌸
-> **七転び八起き** (Nana korobi ya oki), Japanese proverb
+> *"Progress begins where comfort ends."*
 
-> *"Continuity is power."*
-> **継続は力なり** (Keizoku wa chikara nari), Japanese proverb
+> *"Knowledge is the only wall worth climbing."*
 
 > *"Build quietly. Learn deeply. Let the work speak."*
 
@@ -177,13 +175,14 @@ I'm a **final-year M.Tech student in AI & Data Science** at the **University of 
 
 <div align="center">
 
-<a href="mailto:maheshraina2003@gmail.com"><img src="https://img.shields.io/badge/Email-maheshraina2003%40gmail.com-e879a9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Friendofhumanity"><img src="https://img.shields.io/badge/GitHub-Friendofhumanity-0b0b1a?style=for-the-badge&logo=github&logoColor=white" /></a>
-<!-- Add your LinkedIn URL below -->
-<!-- <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
+<a href="mailto:maheshraina2003@gmail.com"><img src="https://img.shields.io/badge/Email-maheshraina2003%40gmail.com-8b1e1e?style=for-the-badge" /></a>
+<a href="https://github.com/Friendofhumanity"><img src="https://img.shields.io/badge/GitHub-Friendofhumanity-4d6b3a?style=for-the-badge" /></a>
+<a href="https://aclanthology.org/2025.genaik-1.12/"><img src="https://img.shields.io/badge/ACL_Anthology-Publications-3a3a3a?style=for-the-badge" /></a>
+<!-- Add your LinkedIn URL, then uncomment: -->
+<!-- <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-c9b37e?style=for-the-badge" /></a> -->
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:e879a9,50:3b1d5a,100:0b0b1a&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=24,20,12&section=footer" />
 
 </div>
