@@ -34,7 +34,6 @@ I'm a **final-year M.Tech student in AI & Data Science** at the **University of 
 
 - 🔬 Two research internships at **IIT Jammu (Dept. of CS)**
 - 🧠 Interests: misinformation detection, low-resource NLP, LLM-powered systems
-- 🤝 Lead of **GDG on Campus, University of Jammu (GDG JU)**
 - 🎯 Targeting **AI/ML Research roles**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:5a7a43,50:c9b37e,100:b3202a" width="100%" />
